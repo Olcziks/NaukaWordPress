@@ -1,0 +1,191 @@
+
+22-10-2023 10:40:59 [localhost][info] Parent plugin start installation!
+22-10-2023 10:40:59 [localhost][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.6.5
+22-10-2023 10:40:59 [localhost][info] Parent plugin installation complete!
+-------------------------------
+22-10-2023 10:41:10 [localhost][info] Try to create backup directory. Backup dir: (C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup)
+-------------------------------
+22-10-2023 12:01:02 [localhost][info] START auto optimize cron job. Attachment: 93
+22-10-2023 12:01:02 [localhost][info] Try to create backup directory. Backup dir: (C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10)
+22-10-2023 12:01:02 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6.jpg) to a remote server (server_1).
+22-10-2023 12:01:03 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 12:01:03 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6-150x150.jpg) to a remote server (server_1).
+22-10-2023 12:01:03 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 12:01:03 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6-300x291.jpg) to a remote server (server_1).
+22-10-2023 12:01:03 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 12:01:04 [localhost][debug] New queue created #1, attributes values: {"server_id":null,"object_id":93,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":51440,"final_size":43803,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":32482,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697968864}
+22-10-2023 12:01:04 [localhost][info] END auto optimize cron job. Attachment: 93
+-------------------------------
+22-10-2023 12:11:13 [localhost][info] START auto optimize cron job. Attachment: 94
+22-10-2023 12:11:13 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cropped-cake-gal-6.jpg) to a remote server (server_1).
+22-10-2023 12:11:13 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 12:11:13 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cropped-cake-gal-6-150x150.jpg) to a remote server (server_1).
+22-10-2023 12:11:13 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 12:11:14 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cropped-cake-gal-6-300x300.jpg) to a remote server (server_1).
+22-10-2023 12:11:14 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 12:11:14 [localhost][debug] New queue created #2, attributes values: {"server_id":null,"object_id":94,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":47688,"final_size":40706,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":28455,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697969474}
+22-10-2023 12:11:14 [localhost][info] END auto optimize cron job. Attachment: 94
+22-10-2023 12:11:14 [localhost][info] START auto optimize cron job. Attachment: 93
+22-10-2023 12:11:14 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cake-gal-6.jpg.
+22-10-2023 12:11:14 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cake-gal-6-150x150.jpg.
+22-10-2023 12:11:14 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cake-gal-6-300x291.jpg.
+22-10-2023 12:11:14 [localhost][debug] Deleted queue item #1
+22-10-2023 12:11:14 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6.jpg) to a remote server (server_1).
+22-10-2023 12:11:14 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 12:11:14 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6-150x150.jpg) to a remote server (server_1).
+22-10-2023 12:11:15 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 12:11:15 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6-300x291.jpg) to a remote server (server_1).
+22-10-2023 12:11:15 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 12:11:15 [localhost][debug] New queue created #3, attributes values: {"server_id":null,"object_id":93,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":51440,"final_size":43803,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":32482,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697969475}
+22-10-2023 12:11:15 [localhost][info] END auto optimize cron job. Attachment: 93
+-------------------------------
+22-10-2023 12:27:45 [localhost][info] START auto optimize cron job. Attachment: 93
+22-10-2023 12:27:45 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cake-gal-6.jpg.
+22-10-2023 12:27:45 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cake-gal-6-150x150.jpg.
+22-10-2023 12:27:45 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cake-gal-6-300x291.jpg.
+22-10-2023 12:27:45 [localhost][debug] Deleted queue item #3
+22-10-2023 12:27:45 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6.jpg) to a remote server (server_1).
+22-10-2023 12:27:45 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 12:27:45 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6-150x150.jpg) to a remote server (server_1).
+22-10-2023 12:27:46 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 12:27:46 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6-300x291.jpg) to a remote server (server_1).
+22-10-2023 12:27:46 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 12:27:46 [localhost][debug] New queue created #4, attributes values: {"server_id":null,"object_id":93,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":51440,"final_size":43803,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":32482,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697970466}
+22-10-2023 12:27:46 [localhost][info] END auto optimize cron job. Attachment: 93
+-------------------------------
+22-10-2023 14:14:06 [localhost][info] START auto optimize cron job. Attachment: 133
+22-10-2023 14:14:06 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/foto-20-of-50.jpg) to a remote server (server_1).
+22-10-2023 14:14:07 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 14:14:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/foto-20-of-50-150x150.jpg) to a remote server (server_1).
+22-10-2023 14:14:07 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 14:14:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/foto-20-of-50-300x200.jpg) to a remote server (server_1).
+22-10-2023 14:14:07 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 14:14:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/foto-20-of-50-768x512.jpg) to a remote server (server_1).
+22-10-2023 14:14:08 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 14:14:08 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/foto-20-of-50-1024x682.jpg) to a remote server (server_1).
+22-10-2023 14:14:08 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 14:14:08 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/foto-20-of-50-1536x1024.jpg) to a remote server (server_1).
+22-10-2023 14:14:09 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 14:14:09 [localhost][debug] New queue created #5, attributes values: {"server_id":null,"object_id":133,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":377092,"final_size":314097,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":162980,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697976849}
+22-10-2023 14:14:09 [localhost][info] END auto optimize cron job. Attachment: 133
+-------------------------------
+22-10-2023 19:13:17 [localhost][info] START auto optimize cron job. Attachment: 93
+22-10-2023 19:13:17 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cake-gal-6.jpg.
+22-10-2023 19:13:17 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cake-gal-6-150x150.jpg.
+22-10-2023 19:13:17 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cake-gal-6-300x291.jpg.
+22-10-2023 19:13:18 [localhost][debug] Deleted queue item #4
+22-10-2023 19:13:18 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6.jpg) to a remote server (server_1).
+22-10-2023 19:13:18 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 19:13:18 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6-150x150.jpg) to a remote server (server_1).
+22-10-2023 19:13:18 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 19:13:18 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6-300x291.jpg) to a remote server (server_1).
+22-10-2023 19:13:18 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 19:13:19 [localhost][debug] New queue created #6, attributes values: {"server_id":null,"object_id":93,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":51440,"final_size":43803,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":32482,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697994799}
+22-10-2023 19:13:19 [localhost][info] END auto optimize cron job. Attachment: 93
+-------------------------------
+22-10-2023 19:14:33 [localhost][info] START auto optimize cron job. Attachment: 196
+22-10-2023 19:14:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-decor.jpg) to a remote server (server_1).
+22-10-2023 19:14:33 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 19:14:33 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-decor-150x150.jpg) to a remote server (server_1).
+22-10-2023 19:14:34 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 19:14:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-decor-300x300.jpg) to a remote server (server_1).
+22-10-2023 19:14:34 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 19:14:34 [localhost][debug] New queue created #7, attributes values: {"server_id":null,"object_id":196,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":65713,"final_size":54343,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":41770,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697994874}
+22-10-2023 19:14:34 [localhost][info] END auto optimize cron job. Attachment: 196
+22-10-2023 19:14:34 [localhost][info] START auto optimize cron job. Attachment: 93
+22-10-2023 19:14:34 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cake-gal-6.jpg.
+22-10-2023 19:14:34 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cake-gal-6-150x150.jpg.
+22-10-2023 19:14:34 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cake-gal-6-300x291.jpg.
+22-10-2023 19:14:34 [localhost][debug] Deleted queue item #6
+22-10-2023 19:14:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6.jpg) to a remote server (server_1).
+22-10-2023 19:14:34 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 19:14:34 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6-150x150.jpg) to a remote server (server_1).
+22-10-2023 19:14:35 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 19:14:35 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cake-gal-6-300x291.jpg) to a remote server (server_1).
+22-10-2023 19:14:35 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 19:14:35 [localhost][debug] New queue created #8, attributes values: {"server_id":null,"object_id":93,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":51440,"final_size":43803,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":32482,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697994875}
+22-10-2023 19:14:35 [localhost][info] END auto optimize cron job. Attachment: 93
+-------------------------------
+22-10-2023 19:15:47 [localhost][info] START auto optimize cron job. Attachment: 198
+22-10-2023 19:15:47 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cropped-decor.jpg) to a remote server (server_1).
+22-10-2023 19:15:48 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 19:15:48 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cropped-decor-150x150.jpg) to a remote server (server_1).
+22-10-2023 19:15:48 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 19:15:48 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cropped-decor-300x300.jpg) to a remote server (server_1).
+22-10-2023 19:15:48 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 19:15:49 [localhost][debug] New queue created #9, attributes values: {"server_id":null,"object_id":198,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":64421,"final_size":54299,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":40543,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1697994949}
+22-10-2023 19:15:49 [localhost][info] END auto optimize cron job. Attachment: 198
+-------------------------------
+22-10-2023 20:41:29 [localhost][info] START auto optimize cron job. Attachment: 223
+22-10-2023 20:41:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/dish_7064812.png) to a remote server (server_1).
+22-10-2023 20:41:29 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 20:41:29 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/dish_7064812-150x150.png) to a remote server (server_1).
+22-10-2023 20:41:30 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 20:41:30 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/dish_7064812-300x300.png) to a remote server (server_1).
+22-10-2023 20:41:30 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 20:41:30 [localhost][debug] New queue created #10, attributes values: {"server_id":null,"object_id":223,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":25148,"final_size":17704,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":12884,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1698000090}
+22-10-2023 20:41:30 [localhost][info] END auto optimize cron job. Attachment: 223
+-------------------------------
+22-10-2023 20:48:27 [localhost][info] START auto optimize cron job. Attachment: 224
+22-10-2023 20:48:27 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/pobrane.png) to a remote server (server_1).
+22-10-2023 20:48:28 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 20:48:28 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/pobrane-150x150.png) to a remote server (server_1).
+22-10-2023 20:48:28 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 20:48:28 [localhost][debug] New queue created #11, attributes values: {"server_id":null,"object_id":224,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":5491,"final_size":3995,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":2075,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1698000508}
+22-10-2023 20:48:28 [localhost][info] END auto optimize cron job. Attachment: 224
+-------------------------------
+22-10-2023 21:00:26 [localhost][info] START auto optimize cron job. Attachment: 225
+22-10-2023 21:00:26 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/Zrzut-ekranu-2023-10-22-205945.png) to a remote server (server_1).
+22-10-2023 21:00:26 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 21:00:26 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/Zrzut-ekranu-2023-10-22-205945-150x150.png) to a remote server (server_1).
+22-10-2023 21:00:27 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 21:00:27 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/Zrzut-ekranu-2023-10-22-205945-209x300.png) to a remote server (server_1).
+22-10-2023 21:00:27 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 21:00:27 [localhost][debug] New queue created #12, attributes values: {"server_id":null,"object_id":225,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":96684,"final_size":37368,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":79699,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1698001227}
+22-10-2023 21:00:27 [localhost][info] END auto optimize cron job. Attachment: 225
+-------------------------------
+22-10-2023 21:15:59 [localhost][info] START auto optimize cron job. Attachment: 226
+22-10-2023 21:15:59 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/Zrzut-ekranu-2023-10-22-211522.png) to a remote server (server_1).
+22-10-2023 21:16:00 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 21:16:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/Zrzut-ekranu-2023-10-22-211522-150x150.png) to a remote server (server_1).
+22-10-2023 21:16:00 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 21:16:00 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/Zrzut-ekranu-2023-10-22-211522-211x300.png) to a remote server (server_1).
+22-10-2023 21:16:01 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 21:16:01 [localhost][debug] New queue created #13, attributes values: {"server_id":null,"object_id":226,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":304456,"final_size":92385,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":263388,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1698002161}
+22-10-2023 21:16:01 [localhost][info] END auto optimize cron job. Attachment: 226
+-------------------------------
+22-10-2023 21:22:36 [localhost][info] START auto optimize cron job. Attachment: 227
+22-10-2023 21:22:36 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/Zrzut-ekranu-2023-10-22-212201.png) to a remote server (server_1).
+22-10-2023 21:22:37 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 21:22:37 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/Zrzut-ekranu-2023-10-22-212201-150x150.png) to a remote server (server_1).
+22-10-2023 21:22:38 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 21:22:38 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/Zrzut-ekranu-2023-10-22-212201-210x300.png) to a remote server (server_1).
+22-10-2023 21:22:38 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 21:22:38 [localhost][debug] New queue created #14, attributes values: {"server_id":null,"object_id":227,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":306605,"final_size":94027,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":264141,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1698002558}
+22-10-2023 21:22:38 [localhost][info] END auto optimize cron job. Attachment: 227
+-------------------------------
+22-10-2023 21:53:07 [localhost][info] START auto optimize cron job. Attachment: 198
+22-10-2023 21:53:07 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cropped-decor.jpg.
+22-10-2023 21:53:07 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cropped-decor-150x150.jpg.
+22-10-2023 21:53:07 [localhost][info] Restored file: C:/wamp64/www/NaukaWordPress/wp-content/uploads/wio_backup/2023/10/cropped-cropped-decor-300x300.jpg.
+22-10-2023 21:53:07 [localhost][debug] Deleted queue item #9
+22-10-2023 21:53:07 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cropped-decor.jpg) to a remote server (server_1).
+22-10-2023 21:53:07 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 21:53:08 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cropped-decor-150x150.jpg) to a remote server (server_1).
+22-10-2023 21:53:08 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 21:53:08 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/cropped-cropped-decor-300x300.jpg) to a remote server (server_1).
+22-10-2023 21:53:08 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 21:53:08 [localhost][debug] New queue created #15, attributes values: {"server_id":null,"object_id":198,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":64421,"final_size":54299,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":40543,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1698004388}
+22-10-2023 21:53:08 [localhost][info] END auto optimize cron job. Attachment: 198
+-------------------------------
+22-10-2023 22:55:31 [localhost][info] START auto optimize cron job. Attachment: 267
+22-10-2023 22:55:31 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/drink1-2-240x300-1.png) to a remote server (server_1).
+22-10-2023 22:55:32 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 22:55:32 [localhost][info] Preparing to upload a file (C:/wamp64/www/NaukaWordPress/wp-content/uploads/2023/10/drink1-2-240x300-1-150x150.png) to a remote server (server_1).
+22-10-2023 22:55:32 [localhost][info] File successfully uploaded to remote server (server_1).
+22-10-2023 22:55:32 [localhost][debug] New queue created #16, attributes values: {"server_id":null,"object_id":267,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":94239,"final_size":35278,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":1,\"original_main_size\":64091,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1698008132}
+22-10-2023 22:55:32 [localhost][info] END auto optimize cron job. Attachment: 267
+-------------------------------

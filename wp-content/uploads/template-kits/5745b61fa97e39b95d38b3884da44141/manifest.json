@@ -1,0 +1,1454 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Wedding",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-fc5586d0a6260842420bfc0d3ef5804a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-5b1ed15268ccc38108321d65d17b34c8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4.jpg",
+            "source": "templates\/home-4-3a9fc8acecf73f429ab2f306b03dc2d8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 5",
+            "screenshot": "screenshots\/home-5.jpg",
+            "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 6",
+            "screenshot": "screenshots\/home-6.jpg",
+            "source": "templates\/home-6-2e27d3c388d7b2dabdc3efd2baa74d65.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 7",
+            "screenshot": "screenshots\/home-7.jpg",
+            "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 8",
+            "screenshot": "screenshots\/home-8.jpg",
+            "source": "templates\/home-8-18a81e5b4768f419919c05a4a186e17d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us-abc3e6a101dda5657651813697a9557b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us 2",
+            "screenshot": "screenshots\/about-us-2.jpg",
+            "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Gift Registry",
+            "screenshot": "screenshots\/gift-registry.jpg",
+            "source": "templates\/gift-registry-6a2de34c3889f8fb50e5e149b3feebe2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gift Registry 2",
+            "screenshot": "screenshots\/gift-registry-2.jpg",
+            "source": "templates\/gift-registry-2-ecdf451116fbfcf8b849bfb633731bf4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Services",
+            "screenshot": "screenshots\/our-services.jpg",
+            "source": "templates\/our-services-b6e1669d209fe828d8f65b28bea77562.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Services 2",
+            "screenshot": "screenshots\/our-services-2.jpg",
+            "source": "templates\/our-services-2-fe1aa5e992642e3027e7565c0bf3059b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Photo Album",
+            "screenshot": "screenshots\/photo-album.jpg",
+            "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Photo Album 2",
+            "screenshot": "screenshots\/photo-album-2.jpg",
+            "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "The Ceremony",
+            "screenshot": "screenshots\/the-ceremony.jpg",
+            "source": "templates\/the-ceremony-f53b994c3ec65db3c24222da334f6ee0.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "The Ceremony 2",
+            "screenshot": "screenshots\/the-ceremony-2.jpg",
+            "source": "templates\/the-ceremony-2-482c9989ce5106140499818e7d05dd9c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us-01890ffb26722f89111bbf1d1b6f097e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us 2",
+            "screenshot": "screenshots\/contact-us-2.jpg",
+            "source": "templates\/contact-us-2-a01611b7585e175deea9dcd393531d54.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup-10001334efae81039e87ac562662bb31.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "photo-nic-co-uk-nic-224379-unspdlash-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/photo-nic-co-uk-nic-224379-unspdlash-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-4-3a9fc8acecf73f429ab2f306b03dc2d8.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 110193,
+            "dimensions": [
+                1532,
+                1188
+            ]
+        },
+        {
+            "filename": "almos-bechtold-534205-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/almos-bechtold-534205-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                },
+                {
+                    "source": "templates\/contact-us-2-a01611b7585e175deea9dcd393531d54.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 229631,
+            "dimensions": [
+                1900,
+                1267
+            ]
+        },
+        {
+            "filename": "sweet-ice-cream-photography-79569-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/sweet-ice-cream-photography-79569-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/gift-registry-2-ecdf451116fbfcf8b849bfb633731bf4.json",
+                    "name": "Gift Registry 2"
+                },
+                {
+                    "source": "templates\/our-services-b6e1669d209fe828d8f65b28bea77562.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/our-services-2-fe1aa5e992642e3027e7565c0bf3059b.json",
+                    "name": "Our Services 2"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                },
+                {
+                    "source": "templates\/the-ceremony-2-482c9989ce5106140499818e7d05dd9c.json",
+                    "name": "The Ceremony 2"
+                }
+            ],
+            "filesize": 431517,
+            "dimensions": [
+                1900,
+                1267
+            ]
+        },
+        {
+            "filename": "chuttersnap-198430-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/chuttersnap-198430-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                }
+            ],
+            "filesize": 186926,
+            "dimensions": [
+                1900,
+                1268
+            ]
+        },
+        {
+            "filename": "edward-cisneros-446789-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/edward-cisneros-446789-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/about-us-abc3e6a101dda5657651813697a9557b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/gift-registry-2-ecdf451116fbfcf8b849bfb633731bf4.json",
+                    "name": "Gift Registry 2"
+                },
+                {
+                    "source": "templates\/our-services-b6e1669d209fe828d8f65b28bea77562.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/our-services-2-fe1aa5e992642e3027e7565c0bf3059b.json",
+                    "name": "Our Services 2"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                },
+                {
+                    "source": "templates\/the-ceremony-2-482c9989ce5106140499818e7d05dd9c.json",
+                    "name": "The Ceremony 2"
+                },
+                {
+                    "source": "templates\/contact-us-01890ffb26722f89111bbf1d1b6f097e.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/contact-us-2-a01611b7585e175deea9dcd393531d54.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 400048,
+            "dimensions": [
+                1900,
+                1267
+            ]
+        },
+        {
+            "filename": "photos-by-lanty-568725-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/photos-by-lanty-568725-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 241499,
+            "dimensions": [
+                1900,
+                1267
+            ]
+        },
+        {
+            "filename": "luis-tosta-259531-unsplash-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/luis-tosta-259531-unsplash-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-8-18a81e5b4768f419919c05a4a186e17d.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                }
+            ],
+            "filesize": 278141,
+            "dimensions": [
+                1900,
+                1267
+            ]
+        },
+        {
+            "filename": "petr-ovralov-239624-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/petr-ovralov-239624-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3-5b1ed15268ccc38108321d65d17b34c8.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3a9fc8acecf73f429ab2f306b03dc2d8.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-8-18a81e5b4768f419919c05a4a186e17d.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/our-services-b6e1669d209fe828d8f65b28bea77562.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/the-ceremony-2-482c9989ce5106140499818e7d05dd9c.json",
+                    "name": "The Ceremony 2"
+                }
+            ],
+            "filesize": 117173,
+            "dimensions": [
+                1900,
+                1267
+            ]
+        },
+        {
+            "filename": "photo-nic-co-uk-nic-224379-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/photo-nic-co-uk-nic-224379-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-8-18a81e5b4768f419919c05a4a186e17d.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/our-services-b6e1669d209fe828d8f65b28bea77562.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/the-ceremony-2-482c9989ce5106140499818e7d05dd9c.json",
+                    "name": "The Ceremony 2"
+                },
+                {
+                    "source": "templates\/contact-us-01890ffb26722f89111bbf1d1b6f097e.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 191287,
+            "dimensions": [
+                1900,
+                1266
+            ]
+        },
+        {
+            "filename": "wu-jianxiong-266198-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/wu-jianxiong-266198-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/contact-us-01890ffb26722f89111bbf1d1b6f097e.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 276776,
+            "dimensions": [
+                1900,
+                1267
+            ]
+        },
+        {
+            "filename": "ceremony.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/ceremony.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-fc5586d0a6260842420bfc0d3ef5804a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-5b1ed15268ccc38108321d65d17b34c8.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-6-2e27d3c388d7b2dabdc3efd2baa74d65.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/about-us-abc3e6a101dda5657651813697a9557b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/gift-registry-6a2de34c3889f8fb50e5e149b3feebe2.json",
+                    "name": "Gift Registry"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                },
+                {
+                    "source": "templates\/the-ceremony-f53b994c3ec65db3c24222da334f6ee0.json",
+                    "name": "The Ceremony"
+                },
+                {
+                    "source": "templates\/contact-us-01890ffb26722f89111bbf1d1b6f097e.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/contact-us-2-a01611b7585e175deea9dcd393531d54.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 288221,
+            "dimensions": [
+                1267,
+                1267
+            ]
+        },
+        {
+            "filename": "decor.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/decor.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-fc5586d0a6260842420bfc0d3ef5804a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-5b1ed15268ccc38108321d65d17b34c8.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-6-2e27d3c388d7b2dabdc3efd2baa74d65.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-abc3e6a101dda5657651813697a9557b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/gift-registry-6a2de34c3889f8fb50e5e149b3feebe2.json",
+                    "name": "Gift Registry"
+                },
+                {
+                    "source": "templates\/the-ceremony-f53b994c3ec65db3c24222da334f6ee0.json",
+                    "name": "The Ceremony"
+                },
+                {
+                    "source": "templates\/contact-us-2-a01611b7585e175deea9dcd393531d54.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 180049,
+            "dimensions": [
+                1267,
+                1267
+            ]
+        },
+        {
+            "filename": "dress.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/dress.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-fc5586d0a6260842420bfc0d3ef5804a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-5b1ed15268ccc38108321d65d17b34c8.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-6-2e27d3c388d7b2dabdc3efd2baa74d65.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/gift-registry-6a2de34c3889f8fb50e5e149b3feebe2.json",
+                    "name": "Gift Registry"
+                },
+                {
+                    "source": "templates\/gift-registry-2-ecdf451116fbfcf8b849bfb633731bf4.json",
+                    "name": "Gift Registry 2"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/the-ceremony-f53b994c3ec65db3c24222da334f6ee0.json",
+                    "name": "The Ceremony"
+                },
+                {
+                    "source": "templates\/contact-us-2-a01611b7585e175deea9dcd393531d54.json",
+                    "name": "Contact Us 2"
+                },
+                {
+                    "source": "templates\/popup-10001334efae81039e87ac562662bb31.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 152812,
+            "dimensions": [
+                1267,
+                1267
+            ]
+        },
+        {
+            "filename": "cake.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/cake.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3-5b1ed15268ccc38108321d65d17b34c8.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/about-us-abc3e6a101dda5657651813697a9557b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/gift-registry-6a2de34c3889f8fb50e5e149b3feebe2.json",
+                    "name": "Gift Registry"
+                },
+                {
+                    "source": "templates\/gift-registry-2-ecdf451116fbfcf8b849bfb633731bf4.json",
+                    "name": "Gift Registry 2"
+                },
+                {
+                    "source": "templates\/our-services-2-fe1aa5e992642e3027e7565c0bf3059b.json",
+                    "name": "Our Services 2"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                },
+                {
+                    "source": "templates\/contact-us-2-a01611b7585e175deea9dcd393531d54.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 170566,
+            "dimensions": [
+                1267,
+                1267
+            ]
+        },
+        {
+            "filename": "flowers-3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/flowers-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-2-fc5586d0a6260842420bfc0d3ef5804a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-5b1ed15268ccc38108321d65d17b34c8.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-6-2e27d3c388d7b2dabdc3efd2baa74d65.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-8-18a81e5b4768f419919c05a4a186e17d.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/about-us-abc3e6a101dda5657651813697a9557b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/gift-registry-6a2de34c3889f8fb50e5e149b3feebe2.json",
+                    "name": "Gift Registry"
+                },
+                {
+                    "source": "templates\/gift-registry-2-ecdf451116fbfcf8b849bfb633731bf4.json",
+                    "name": "Gift Registry 2"
+                },
+                {
+                    "source": "templates\/our-services-2-fe1aa5e992642e3027e7565c0bf3059b.json",
+                    "name": "Our Services 2"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                },
+                {
+                    "source": "templates\/the-ceremony-f53b994c3ec65db3c24222da334f6ee0.json",
+                    "name": "The Ceremony"
+                },
+                {
+                    "source": "templates\/contact-us-2-a01611b7585e175deea9dcd393531d54.json",
+                    "name": "Contact Us 2"
+                },
+                {
+                    "source": "templates\/popup-10001334efae81039e87ac562662bb31.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 123793,
+            "dimensions": [
+                1267,
+                1267
+            ]
+        },
+        {
+            "filename": "flowers-2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/flowers-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/gift-registry-2-ecdf451116fbfcf8b849bfb633731bf4.json",
+                    "name": "Gift Registry 2"
+                },
+                {
+                    "source": "templates\/our-services-2-fe1aa5e992642e3027e7565c0bf3059b.json",
+                    "name": "Our Services 2"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                }
+            ],
+            "filesize": 91365,
+            "dimensions": [
+                1267,
+                1267
+            ]
+        },
+        {
+            "filename": "jorge-rosal-556589-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/jorge-rosal-556589-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-9b1b15d84054aaa99a99bfd57bfaaf19.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/home-3-5b1ed15268ccc38108321d65d17b34c8.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-3a9fc8acecf73f429ab2f306b03dc2d8.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/about-us-abc3e6a101dda5657651813697a9557b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/gift-registry-6a2de34c3889f8fb50e5e149b3feebe2.json",
+                    "name": "Gift Registry"
+                },
+                {
+                    "source": "templates\/gift-registry-2-ecdf451116fbfcf8b849bfb633731bf4.json",
+                    "name": "Gift Registry 2"
+                },
+                {
+                    "source": "templates\/our-services-b6e1669d209fe828d8f65b28bea77562.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/our-services-2-fe1aa5e992642e3027e7565c0bf3059b.json",
+                    "name": "Our Services 2"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                },
+                {
+                    "source": "templates\/the-ceremony-f53b994c3ec65db3c24222da334f6ee0.json",
+                    "name": "The Ceremony"
+                },
+                {
+                    "source": "templates\/the-ceremony-2-482c9989ce5106140499818e7d05dd9c.json",
+                    "name": "The Ceremony 2"
+                },
+                {
+                    "source": "templates\/contact-us-01890ffb26722f89111bbf1d1b6f097e.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/contact-us-2-a01611b7585e175deea9dcd393531d54.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 212965,
+            "dimensions": [
+                1200,
+                1200
+            ]
+        },
+        {
+            "filename": "courtney-clayton-489902-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/courtney-clayton-489902-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-fc5586d0a6260842420bfc0d3ef5804a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/the-ceremony-2-482c9989ce5106140499818e7d05dd9c.json",
+                    "name": "The Ceremony 2"
+                }
+            ],
+            "filesize": 259129,
+            "dimensions": [
+                1200,
+                1800
+            ]
+        },
+        {
+            "filename": "transparent.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/transparent-500x214.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-fc5586d0a6260842420bfc0d3ef5804a.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 2868,
+            "dimensions": [
+                700,
+                300
+            ]
+        },
+        {
+            "filename": "sweet-ice-cream-photography-480600-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/sweet-ice-cream-photography-480600-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-fc5586d0a6260842420bfc0d3ef5804a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-8-18a81e5b4768f419919c05a4a186e17d.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/about-us-abc3e6a101dda5657651813697a9557b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/gift-registry-2-ecdf451116fbfcf8b849bfb633731bf4.json",
+                    "name": "Gift Registry 2"
+                },
+                {
+                    "source": "templates\/our-services-2-fe1aa5e992642e3027e7565c0bf3059b.json",
+                    "name": "Our Services 2"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                },
+                {
+                    "source": "templates\/contact-us-01890ffb26722f89111bbf1d1b6f097e.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/contact-us-2-a01611b7585e175deea9dcd393531d54.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 280210,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "sweet-ice-cream-photography-612269-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/sweet-ice-cream-photography-612269-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-fc5586d0a6260842420bfc0d3ef5804a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/home-8-18a81e5b4768f419919c05a4a186e17d.json",
+                    "name": "Home 8"
+                }
+            ],
+            "filesize": 511349,
+            "dimensions": [
+                1900,
+                1425
+            ]
+        },
+        {
+            "filename": "benjaminrobyn-jespersen-438346-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/benjaminrobyn-jespersen-438346-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-fc5586d0a6260842420bfc0d3ef5804a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-3a9fc8acecf73f429ab2f306b03dc2d8.json",
+                    "name": "Home 4"
+                }
+            ],
+            "filesize": 268664,
+            "dimensions": [
+                1200,
+                1789
+            ]
+        },
+        {
+            "filename": "ceremdony.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/ceremdony.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-fc5586d0a6260842420bfc0d3ef5804a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-8-18a81e5b4768f419919c05a4a186e17d.json",
+                    "name": "Home 8"
+                },
+                {
+                    "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                }
+            ],
+            "filesize": 214876,
+            "dimensions": [
+                1267,
+                1267
+            ]
+        },
+        {
+            "filename": "sweet-ice-cream-photography-413305-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/sweet-ice-cream-photography-413305-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-fc5586d0a6260842420bfc0d3ef5804a.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/gift-registry-2-ecdf451116fbfcf8b849bfb633731bf4.json",
+                    "name": "Gift Registry 2"
+                }
+            ],
+            "filesize": 261656,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "sweet-ice-cream-photography-113287-unsplash-min.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/sweet-ice-cream-photography-113287-unsplash-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5-bb4c0978550741961244a918469fab6f.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+                    "name": "Home 7"
+                },
+                {
+                    "source": "templates\/about-us-abc3e6a101dda5657651813697a9557b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/gift-registry-2-ecdf451116fbfcf8b849bfb633731bf4.json",
+                    "name": "Gift Registry 2"
+                },
+                {
+                    "source": "templates\/our-services-2-fe1aa5e992642e3027e7565c0bf3059b.json",
+                    "name": "Our Services 2"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                },
+                {
+                    "source": "templates\/contact-us-01890ffb26722f89111bbf1d1b6f097e.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/contact-us-2-a01611b7585e175deea9dcd393531d54.json",
+                    "name": "Contact Us 2"
+                }
+            ],
+            "filesize": 186763,
+            "dimensions": [
+                1900,
+                1069
+            ]
+        },
+        {
+            "filename": "alvin-mahmudov-172241-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/alvin-mahmudov-172241-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-2e27d3c388d7b2dabdc3efd2baa74d65.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/popup-10001334efae81039e87ac562662bb31.json",
+                    "name": "Popup"
+                }
+            ],
+            "filesize": 508614,
+            "dimensions": [
+                1200,
+                1800
+            ]
+        },
+        {
+            "filename": "marc-a-sporys-437479-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/marc-a-sporys-437479-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-2e27d3c388d7b2dabdc3efd2baa74d65.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                },
+                {
+                    "source": "templates\/the-ceremony-f53b994c3ec65db3c24222da334f6ee0.json",
+                    "name": "The Ceremony"
+                }
+            ],
+            "filesize": 413088,
+            "dimensions": [
+                1900,
+                1267
+            ]
+        },
+        {
+            "filename": "mariana-acevedo-376818-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/mariana-acevedo-376818-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-2e27d3c388d7b2dabdc3efd2baa74d65.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/the-ceremony-f53b994c3ec65db3c24222da334f6ee0.json",
+                    "name": "The Ceremony"
+                }
+            ],
+            "filesize": 428697,
+            "dimensions": [
+                1900,
+                1267
+            ]
+        },
+        {
+            "filename": "evelina-friman-339606-unsplash-wm.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/evelina-friman-339606-unsplash-wm.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-6-2e27d3c388d7b2dabdc3efd2baa74d65.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 63876,
+            "dimensions": [
+                350,
+                525
+            ]
+        },
+        {
+            "filename": "bloom-blossom-bouquet-36473.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/bloom-blossom-bouquet-36473.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-7-bbda96885b036a031dd9c1853116254e.json",
+                    "name": "Home 7"
+                }
+            ],
+            "filesize": 120830,
+            "dimensions": [
+                1920,
+                1236
+            ]
+        },
+        {
+            "filename": "anna-sullivan-687934-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/anna-sullivan-687934-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-abc3e6a101dda5657651813697a9557b.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                }
+            ],
+            "filesize": 130891,
+            "dimensions": [
+                1267,
+                1267
+            ]
+        },
+        {
+            "filename": "redd-angelo-399998-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/redd-angelo-399998-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2-042c468040a8edc6b3469f0892261bda.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                }
+            ],
+            "filesize": 495132,
+            "dimensions": [
+                1200,
+                1800
+            ]
+        },
+        {
+            "filename": "orio-nguyen-267275-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/orio-nguyen-267275-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-services-b6e1669d209fe828d8f65b28bea77562.json",
+                    "name": "Our Services"
+                },
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                },
+                {
+                    "source": "templates\/the-ceremony-2-482c9989ce5106140499818e7d05dd9c.json",
+                    "name": "The Ceremony 2"
+                }
+            ],
+            "filesize": 251683,
+            "dimensions": [
+                1900,
+                1267
+            ]
+        },
+        {
+            "filename": "gades-photography-540958-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/gades-photography-540958-unsplash.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-album-a2ce88811aab67737f68afff5fe85096.json",
+                    "name": "Photo Album"
+                },
+                {
+                    "source": "templates\/the-ceremony-2-482c9989ce5106140499818e7d05dd9c.json",
+                    "name": "The Ceremony 2"
+                },
+                {
+                    "source": "templates\/contact-us-01890ffb26722f89111bbf1d1b6f097e.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 335903,
+            "dimensions": [
+                1200,
+                1800
+            ]
+        },
+        {
+            "filename": "book-bouquet-card-545042-e1620833073600.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-51\/wp-content\/uploads\/sites\/54\/2018\/08\/book-bouquet-card-545042-e1620833073600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/photo-album-2-b9ae388a1d62ca7c80a5888c5f59ae85.json",
+                    "name": "Photo Album 2"
+                }
+            ],
+            "filesize": 253159,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        }
+    ]
+}
